@@ -1,0 +1,40 @@
+
+@font-face{
+	
+	src: url("fonts/Roboto-Light.ttf");
+	
+	font-family: roboto;
+	
+}
+
+*{
+	
+	font-family: roboto;
+	
+}
+
+h1{
+	
+	font-weight: normal;
+	
+	text-align: center;
+	
+	cursor: default;
+	
+}
+
+p{
+	
+	text-align: center;
+	
+}
+
+input{
+	
+	display: block;
+	
+	margin: auto;
+	
+}
+
+
